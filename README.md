@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este é um programa desenvolvido em Linguagem C como parte da avaliação da disciplina de Programação de Software Básico em C do curso de Ciência da computação na Estácio de Sá.
+Este é um programa desenvolvido em Linguagem C como parte da avaliação da disciplina de Programação de Software Básico em C do curso de Ciencia da Computação na Universidade Estácio de Sá.
 
 O objetivo do programa é validar uma senha digitada pelo usuário contra uma senha mestra armazenada em um arquivo, utilizando uma entrada de dados mascarada para proteger a digitação.
 
