@@ -1,0 +1,7 @@
+# Arquivos compilados e executáveis
+*.o
+*.exe
+*.out
+
+# Arquivo de senha (para não expor a senha no repositório)
+senha.txt
