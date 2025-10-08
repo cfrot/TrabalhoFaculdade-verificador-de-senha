@@ -32,5 +32,5 @@ Para compilar e executar este projeto, siga os passos abaixo.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/cfrot/verificador-de-senha-c.git](https://github.com/cfrot/verificador-de-senha-c.git)
-   cd verificador-de-senha-c
+   git clone [https://github.com/cfrot/TrabalhoFaculdade-verificador-de-senha.git](https://github.com/cfrot/TrabalhoFaculdade-verificador-de-senha.git)
+   cd TrabalhoFaculdade-verificador-de-senha
